@@ -1,0 +1,24 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "thatslife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRiybot/p5js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRiybot/p5js/issues"
+  },
+  "homepage": "https://github.com/MrRiybot/p5js#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "node-p5": "^1.0.4"
+  }
+}
